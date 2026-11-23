@@ -1,0 +1,16 @@
+Old_Column_Name,New_Column_Name
+Date,report_date
+Portfolio name,portfolio_name
+Campaign Name,campaign_name
+Country,country
+Currency,currency
+Ad Group Name,ad_group_name
+Retailer,retailer
+Advertised SKU,advertised_sku
+Advertised ASIN,advertised_asin
+Targeting,targeting
+Match Type,match_type
+Purchased ASIN,purchased_asin
+7 Day Other SKU Units (#),other_sku_units_7d
+7 Day Other SKU Orders (#),other_sku_orders_7d
+7 Day Other SKU Sales,other_sku_sales_7d

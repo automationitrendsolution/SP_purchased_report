@@ -1,0 +1,3 @@
+Date,Portfolio name,Campaign Name,Country,Currency,Ad Group Name,Retailer,Advertised SKU,Advertised ASIN,Targeting,Match Type,Purchased ASIN,7 Day Other SKU Units (#),7 Day Other SKU Orders (#),7 Day Other SKU Sales
+2026-11-01,Core Brand,SP - Sample - Auto,United States,USD,Auto Group,Amazon,SAMPLE-SKU-01,B000SAMPLE1,close-match,-,B000SAMPLE9,2,2,$39.98
+2026-11-02,Core Brand,"SP | 50% off | $10 tier",United States,USD,Manual Group,Amazon,SAMPLE-SKU-02,B000SAMPLE2,"category=""Sample Category"" price>12",-,B000SAMPLE8,1,1,"$1,204.55"

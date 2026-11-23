@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Editors
+.idea/
+.vscode/
+
+# ---------------------------------------------------------------------------
+# Secrets and credentials -- never commit
+# ---------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Authenticated browser session (cookies, tokens, storage state)
+data/session/
+storage_state.json
+cookies.json
+
+# Runtime artefacts -- reports hold client data
+data/downloads/*
+data/processed/*
+data/failed/*
+data/screenshots/*
+data/sql/*
+!data/**/.gitkeep
+data/*.lock
+logs/*
+!logs/.gitkeep
